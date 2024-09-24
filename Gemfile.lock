@@ -187,7 +187,7 @@ GEM
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.8.2)
-    webrick (1.8.1)
+    webrick (1.8.2)
     word_wrap (1.0.0)
 
 PLATFORMS
@@ -237,7 +237,7 @@ DEPENDENCIES
   rouge!
   safe_yaml (= 1.0.5)
   sass (= 3.7.4)
-  webrick (~> 1.8)
+  webrick (~> 1.8, >= 1.8.2)
   word_wrap (~> 1.0)
 
 BUNDLED WITH
